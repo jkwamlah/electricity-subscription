@@ -14,16 +14,33 @@ How to:
 - **withdrawUSDC**: Almost the same with **withdrawEther**, but the token to withdraw here is USDC.
 
 ## Developers
-
 ### Start
 ```shell
-$ git clone https://github.com/OkoliEvans/metro-electrik
+$ git clone https://github.com/OkoliEvans/metro-eletrique
 ```
+
+
+To locate the project folders in the scaffold-eth 
+```shell
+$ cd packages
+```
+
+For frontend
+```shell
+$ cd nextjs
+```
+
+For smart contract
+```shell
+$ cd foundry
+```
+
+
 
 ### Installation
 
 ```shell
-$ cd backend
+$ cd foundry
 $ forge install
 ```
 
