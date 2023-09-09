@@ -73,13 +73,13 @@ $ forge create --rpc-url <your_rpc_url> \
 ### Installation
 
 ```shell
-$ cd frontend
-$ npm install
+$ cd nextjs
+$ yarn install
 ```
 
 ### Build
 ```shell
-$ npm run dev
+$ yarn start
 ```
 
 - Go to **http://localhost:3000**
